@@ -1,0 +1,4 @@
+git config --global user.name "Mi Nombre" (Crear un nombre en git)
+cls (Limpiar la terminal)
+git config --global user.email "El mismo correo electrónico que uso en la cuenta de github" (Registrar mi correo electrónico en git)
+git init (Iniciar o crear un nuevo proyecto en git)
